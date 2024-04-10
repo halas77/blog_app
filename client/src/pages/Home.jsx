@@ -1,7 +1,11 @@
-
+// import { Button } from "flowbite-react"
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      {/* <Button> Click here </Button>
+       */}
+       Home
+    </div>
   )
 }
 
